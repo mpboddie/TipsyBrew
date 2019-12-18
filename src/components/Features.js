@@ -20,7 +20,9 @@ const FeatureGrid = ({ gridItems }) => (
           <h3>{item.title}</h3>  
           <p>{item.text}</p>
           <p>{item.tag}</p>
-          <a class="button" href={item.link}>GitHub</a>
+          {item.link
+           ? <a class="button" target="_blank" href={item.link}>GitHub</a>
+           : null }
         </section>
       </div>
     ))}
