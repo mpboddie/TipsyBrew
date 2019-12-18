@@ -19,7 +19,9 @@ const FeatureGrid = ({ gridItems }) => (
           </div>
           <h3>{item.title}</h3>  
           <p>{item.text}</p>
-          <p>{item.tag}</p>
+          {item.tag
+           ? <Link class="button" to={`/tags/${kebabCase(item.tag)}/`}>Blog Posts</Link>
+           : null }
           {item.link
            ? <a class="button" target="_blank" href={item.link}>GitHub</a>
            : null }
