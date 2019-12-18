@@ -21,12 +21,14 @@ const FeatureGrid = ({ gridItems }) => (
           </div>
           <h3>{item.title}</h3>  
           <p>{item.text}</p>
+          <div class="field is-grouped">
           {item.tag
-           ? <Link class="button" to={`/tags/${kebabCase(item.tag)}/`}>Blog Posts</Link>
+           ? <p class="control"><Link class="button" to={`/tags/${kebabCase(item.tag)}/`}>Blog Posts</Link></p>
            : null }
           {item.link
-           ? <a class="button" target="_blank" href={item.link}>GitHub</a>
+           ? <p class="control"><a class="button" target="_blank" href={item.link}>GitHub</a></p>
            : null }
+          </div>
         </section>
       </div>
     ))}
