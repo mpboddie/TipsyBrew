@@ -168,7 +168,10 @@ export const productPageQuery = graphql`
                 }
               }
             }
+            title
             text
+            tag
+            link
           }
           heading
           description
