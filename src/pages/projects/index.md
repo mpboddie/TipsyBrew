@@ -12,12 +12,11 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
+      title: Pour over coffee
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Pour over coffee is extremely simple in theory, but mastering the art
+        and doing it everyday can be a chore. The TipsyBrew pour over project
+        aims to automate the pour over process with repeatable accuracy.
       tag: pourover
       link: https://github.com/mpboddie/TipsyBrewPourOver
     - image: /img/coffee-gear.png
