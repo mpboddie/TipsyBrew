@@ -37,13 +37,13 @@ intro:
         just makes us want to look into it even more (well that and a love of whisk(e)y.
         It is going to take us a while to get to this though, so don't hold your breath.
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Olle from Discord
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      I'm still not convinced tipsybrew isn't a pisstake, so if you don't mind I'm going 
+      to continue with ridiculous ideas.
+  - author: toebear from Discord
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I want to receive the TipsyBrew Florida edition and think to myself ..what can't 
+      this thing try to do and fuck up
 full_image: /img/products-full-width.jpg
 ---
