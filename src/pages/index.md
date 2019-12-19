@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: TipsyBrew
+title: Crazy ideas, Good beverages
 image: /img/home-jumbotron.jpg
 heading: Crazy ideas, Good beverages
-subheading: Support sustainable farming while enjoying a cup
+subheading: Join us on our journey of bad habits and impressive feats
 mainpitch:
   title: Why Kaldi
   description: >
