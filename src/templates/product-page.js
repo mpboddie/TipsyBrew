@@ -12,7 +12,6 @@ export const ProductPageTemplate = ({
   heading,
   description,
   intro,
-  main,
   testimonials,
   fullImage,
 }) => (
@@ -49,35 +48,6 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
-              <div className="tile is-ancestor">
-                <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
-                    </div>
-                    <div className="tile is-parent">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
-                      </article>
-                    </div>
-                  </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
-                </div>
-              </div>
               <Testimonials testimonials={testimonials} />
               <div
                 className="full-width-image-container"
@@ -105,13 +75,6 @@ ProductPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
-  main: PropTypes.shape({
-    heading: PropTypes.string,
-    description: PropTypes.string,
-    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  }),
   testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
@@ -127,7 +90,6 @@ const ProductPage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
-        main={frontmatter.main}
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
       />
