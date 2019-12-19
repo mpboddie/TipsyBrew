@@ -36,12 +36,6 @@ intro:
         Admittedly, we have zero experience with distilling... but that really
         just makes us want to look into it even more (well that and a love of whisk(e)y.
         It is going to take us a while to get to this though, so don't hold your breath.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
