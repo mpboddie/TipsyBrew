@@ -87,6 +87,7 @@ const Navbar = class extends React.Component {
                   <img src={github} alt="Github" />
                 </span>
               </a>*/}
+              <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"></link>
               <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/XkFdpfL">
                 <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></img>
                 <span style={{marginLeft: '15px', fontSize: '28px'}}>Buy me a coffee</span>
