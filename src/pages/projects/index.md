@@ -12,7 +12,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      title: Pour-over-coffee
+      title: Pour over coffee
       text: >
         Pour over coffee is extremely simple in theory, but mastering the art
         and doing it everyday can be a chore. The TipsyBrew pour over project
