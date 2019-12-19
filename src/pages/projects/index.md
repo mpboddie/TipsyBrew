@@ -45,5 +45,7 @@ testimonials:
     quote: >-
       I want to receive the TipsyBrew Florida edition and think to myself ..what can't 
       this thing try to do and fuck up
+  - author: dphillips from Discord
+    quote: fuck you tipsy
 full_image: /img/products-full-width.jpg
 ---
