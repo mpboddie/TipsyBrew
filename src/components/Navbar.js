@@ -88,7 +88,7 @@ const Navbar = class extends React.Component {
                 </span>
               </a>*/}
               <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></img>
-              <span style='margin-left:15px;font-size:28px !important;'>Buy me a coffee</span>
+              <span style="margin-left:15px;font-size:28px">Buy me a coffee</span>
             </div>
           </div>
         </div>
