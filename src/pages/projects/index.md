@@ -3,12 +3,12 @@ templateKey: 'product-page'
 path: /products
 title: The Projects
 image: /img/jumbotron.jpg
-heading: What are we working on
+heading: What are we working on?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Too much! If you aren't doing too much then you aren't doing enough.
+  Here at TipsyBrew we are focused on brewing though. Well actually we are
+  focused on brewing technology in between actual brewing. Check out some
+  of the project details below.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -16,24 +16,26 @@ intro:
       text: >
         Pour over coffee is extremely simple in theory, but mastering the art
         and doing it everyday can be a chore. The TipsyBrew pour over project
-        aims to automate the pour over process with repeatable accuracy.
+        aims to automate the pour over process with repeatable accuracy. Our
+        approach is to document the ideas and day to day progress on the blog here,
+        while commiting useful code to GitHub.
       tag: pourover
       link: https://github.com/mpboddie/TipsyBrewPourOver
     - image: /img/coffee-gear.png
       title: Homebrewing
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Tipsy loves beer. That shouldn't be much of a surprise. If you are unfamiliar,
+        homebrewing beer is an extremely fun and addictive hobby. It is also time
+        consuming and difficult to manage when life gets in the way. Truth be
+        told, there are a lot of great automated solutions out there due to
+        homebrewing's recent popularity. However, we may share some of the progress
+        on TipsyBrew's solution.
     - image: /img/tutorials.png
       title: Distilling
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Admittedly, we have zero experience with distilling... but that really
+        just makes us want to look into it even more (well that and a love of whisk(e)y.
+        It is going to take us a while to get to this though, so don't hold your breath.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
