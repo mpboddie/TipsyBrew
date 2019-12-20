@@ -21,7 +21,7 @@ intro:
         while commiting useful code to GitHub.
       tag: pourover
       link: https://github.com/mpboddie/TipsyBrewPourOver
-    - image: /img/coffee-gear.png
+    - image: /img/beerOnBar.jpg
       title: Homebrewing
       text: >
         Tipsy loves beer. That shouldn't be much of a surprise. If you are unfamiliar,
@@ -30,7 +30,7 @@ intro:
         told, there are a lot of great automated solutions out there due to
         homebrewing's recent popularity. However, we may share some of the progress
         on TipsyBrew's solution.
-    - image: /img/tutorials.png
+    - image: /img/whiskyPour.jpg
       title: Distilling
       text: >
         Admittedly, we have zero experience with distilling... but that really
