@@ -1,33 +1,47 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Why automate pourover coffee?
+date: 2019-12-19T22:04:00.000Z
+description: >-
+  Normally the "why?" question for projects like this are more of a "because it
+  seemed like it would be fun" type answer. I of all people completely accept
+  this answer, however for this project I feel like there are lots of more
+  logical reasons.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/hario.jpg
 tags:
-  - flavor
-  - tasting
+  - pourover
+  - coffee
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![pourover](/img/hario.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+The act of pourover brewing is pretty basic in itself. You are just pouring hot water through a cone shaped filter holding grounds directly into a carafe or drinking vessel. Done. Why automate that?
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Time
 
-## What the updates mean to you
+The automatic drip and pod coffee makers so commonly found these days exist for a reason. They are so damn convenient, especially if you are just making a single cup. These machines work well for most people and I am not going to go into the common pit falls of them. If you are reading this you most likely know the taste benefits of a pourover.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+But expanding on the process of making a pourover coffee, let's list the steps. I am going to do my best to not make this read like the [black and white scene of an infomercial](https://www.youtube.com/watch?v=qM4zMofsI7w) just to prove my point.
+* Weigh and grind your beans
+* Heat your water
+* Rinse your filter and warm brewer
+* Calculate water amount needed
+* Bloom your grounds and wait (possibly swirl during your wait, up to you)
+* Pour some water, wait, repeat (your process depends on you)
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Is this process painful? No.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Is this process difficult? No.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Is it as quick and mindless as popping a pod it and jamming a button a few times until it makes some god awful noises and poops out something that tastes 'meh' at best? Nope.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+I think you get the point. I should say, I am not aiming to make something as quick and mindless as a pod brewer, I just want to make it a bit more hands off.
+
+## Precision and repeatably
+
+Look at that picture above. It is an idyllic artsy environment that lacks any scientific precision at all. I mean there is already a steaming cup of coffee there, why are they still brewing!? There are no thermometers, scales, or digital calipers (for measuring each individual ground, duh). You may have the instincts to make a great cup of coffee this way, but I am not that good.
+
+I rely on factors like temperature, grind size, coffee to water ratios, and not being hungover to make really consistent repeatably great cups. These are the details I want to tweak and then make the machine execute. I don't want to trust that to a shaky pouring hand and pour* judgement.
+
+## Because I want to
+Hey man, it is going to be cool ok? I want play around with my 3d printer and have an excuse to order some new sensors. Alright, that is all for now. I've got people asking when I am going to release the site. If you are still reading this, I doubt you need anymore reasons anyways.
