@@ -5,12 +5,11 @@ image: /img/home-jumbotron.jpg
 heading: Crazy ideas, Good beverages
 subheading: Join us on our journey of bad habits and impressive feats
 mainpitch:
-  title: Why Kaldi
+  title: TipsyWho?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Tipsy and friends are small time engineers and big time drinkers. Wait, I 
+    think I have that backwards. Either way, this is where the passion of 
+    all sorts of beverages meets hardware, software, or just plain hackery.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -47,10 +46,10 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Our goal here is to share some project progress, educational endeavors, and
+    related fun. We hope you do follow along, contribute, or possibly learn a few 
+    things from our projects here, especially if you share an interest in alcohol 
+    or coffee. Please follow along with some of our projects and blog below.
 main:
   heading: Great coffee with no compromises
   description: >
