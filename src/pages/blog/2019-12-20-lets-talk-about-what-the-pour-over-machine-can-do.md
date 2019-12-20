@@ -34,6 +34,6 @@ This part is more complicated than it seems. Once started I want it to do all th
 5. Wait for the draw down
 6. Go back to step 4 until we have used all the allotted water
 
-All of the pouring parts may or may not require a distinct pattern.
+All of the pouring portions may or may not require a distinct pattern. The volume rates of the pours should also be definable.
 
 These are the basics of phase one. Once this is accomplished we can start talking about more features. I have a plan for most of these items, but it is going to take some experimenting to get it right. And that is what this site is for. You will be able to follow along and possibly learn from my mistakes.
