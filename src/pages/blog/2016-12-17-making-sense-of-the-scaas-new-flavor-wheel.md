@@ -35,7 +35,7 @@ Is this process difficult? No.
 
 Is it as quick and mindless as popping a pod it and jamming a button a few times until it makes some god awful noises and poops out something that tastes 'meh' at best? Nope.
 
-I think you get the point. I should say, I am not aiming to make something as quick and mindless as a pod brewer, I just want to make it a bit more hands off.
+I think you get the point. I should say, I am not aiming to make something as quick and mindless as a pod brewer, I just want to make it a bit more hands off. More on that to come.
 
 ## Precision and repeatably
 
