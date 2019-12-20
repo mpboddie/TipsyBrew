@@ -11,10 +11,10 @@ mainpitch:
     think I have that backwards. Either way, this is where the passion of 
     all sorts of beverages meets hardware, software, or just plain hackery.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our goal here is to share some project progress, educational endeavors, and
+  related fun. We hope you do follow along, contribute, or possibly learn a few 
+  things from our projects here, especially if you share an interest in alcohol 
+  or coffee. Please follow along with some of our projects and blog below.
 intro:
   blurbs:
     - image: /img/coffee.png
