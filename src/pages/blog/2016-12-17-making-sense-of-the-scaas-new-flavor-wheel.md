@@ -45,3 +45,5 @@ I rely on factors like temperature, grind size, coffee to water ratios, and not 
 
 ## Because I want to
 Hey man, it is going to be cool ok? I want play around with my 3d printer and have an excuse to order some new sensors. Alright, that is all for now. I've got people asking when I am going to release the site. If you are still reading this, I doubt you need anymore reasons anyways.
+
+*see what I did there?
