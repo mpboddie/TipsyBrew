@@ -11,7 +11,7 @@ description: >-
   of the project details below.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/chemex.jpg
       title: Pour over coffee
       text: >
         Pour over coffee is extremely simple in theory, but mastering the art
