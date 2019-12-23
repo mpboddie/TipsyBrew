@@ -12,4 +12,4 @@ Great question! I am writing this answer now before actually publicly releasing 
 
 ### That is great Tipsy, but I'm just waiting for you to finish XYZ!
 
-Well, if you are following along with a project and you really need a project to speed up maybe try contributing using [Buy me a coffee](https://www.buymeacoffee.com/XkFdpfL). If you are contributing for a specific reason, please include that information.
+Well, if you are following along with a project and you really need a project to speed up maybe try contributing using [Buy me a coffee](https://www.buymeacoffee.com/TipsyBrew). If you are contributing for a specific reason, please include that information.
