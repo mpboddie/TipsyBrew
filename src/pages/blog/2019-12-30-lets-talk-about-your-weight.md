@@ -9,7 +9,7 @@ tags:
   - pourover
   - weight
 ---
-Alright so I have been working with a load cell and an HX711 hooked up to the arduino to get weight input. Why is weight important to a coffee maker? Oh it is crucial. You may know that the ratio of coffee to water is important, but what you may not realize is that the formula of one scoop of grounds to a cup of water is about as useful as letting my cat make the morning pot of coffee. I won't go on and on about this like a coffee fanatic because it is basic science. Both grind size and bean roast can wildly vary a single scoop's weight. So if we want truly reproducible and accurate coffee we need to weight the beans and determine the weight of the water based on that.
+Alright so I have been working with a load cell and an HX711 hooked up to the arduino to get weight input. Why is weight important to a coffee maker? Oh it is crucial. You may know that the ratio of coffee to water is important, but what you may not realize is that the formula of one scoop of grounds to a cup of water is about as useful as letting my cat make the morning pot of coffee. I won't go on and on about this like a coffee fanatic because it is basic science. Both grind size and bean roast can wildly vary a single scoop's weight. So if we want truly reproducible and accurate coffee we need to weigh the beans and determine the weight of the water based on that, or vice versa.
 
 ![Load cell and HX711](/img/scale.jpg "Load cell and HX711")
 
