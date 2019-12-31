@@ -9,11 +9,11 @@ tags:
   - pourover
   - weight
 ---
-Alright so I have been working with a load sensor and an HX711 hooked up to the arduino to get weight input. Why is weight important to a coffee maker? Oh it is crucial. You may know that the ratio of coffee to water is important, but what you may not realize is that the formula of one scoop of grounds to a cup of water is about as useful as letting my cat make the morning pot of coffee. I won't go on and on about this like a coffee fanatic because it is basic science. Both grind size and bean roast can wildly vary a single scoop's weight. So if we want truly reproducible and accurate coffee we need to weight the beans and determine the weight of the water based on that.
+Alright so I have been working with a load cell and an HX711 hooked up to the arduino to get weight input. Why is weight important to a coffee maker? Oh it is crucial. You may know that the ratio of coffee to water is important, but what you may not realize is that the formula of one scoop of grounds to a cup of water is about as useful as letting my cat make the morning pot of coffee. I won't go on and on about this like a coffee fanatic because it is basic science. Both grind size and bean roast can wildly vary a single scoop's weight. So if we want truly reproducible and accurate coffee we need to weight the beans and determine the weight of the water based on that.
 
 ![Load cell and HX711](/img/scale.jpg "Load cell and HX711")
 
-What you see above is the Mega and LCD keypad shield you are used to seeing if you have been following along. Attached to it is an HX711 load cell amplifier and a strain load cell. Let's just call them the HX711 and the load cell.
+What you see above is the Mega and LCD keypad shield* you are used to seeing if you have been following along. Attached to the arduino is an HX711 load cell amplifier and a strain load cell. Let's just call them the HX711 and the load cell.
 
 ### Load Cell
 
@@ -36,3 +36,5 @@ Today we talked about a crap load of stuff on the [Discord server](https://disco
 Anyways, there was lots of talk about the brew head. As a previous post has said, I am saving that towards the end because it will take a lot of experimentation and there are varying levels of success depending on your individual needs. But, if you are curious for a baseline, the resulting bed should look at least better than this...
 
 ![Bad bed](/img/badbed.jpg "Bad bed")
+
+\* Sidenote: I have found it difficult to get a good picture of the LCD because there is a bad design going around that breaks the backlight adjustment. I am looking for a diode to fix it. 
