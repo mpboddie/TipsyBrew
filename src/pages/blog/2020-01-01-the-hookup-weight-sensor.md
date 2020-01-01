@@ -3,9 +3,9 @@ templateKey: blog-post
 title: 'The Hookup: Weight sensor'
 date: 2020-01-01T02:54:04.831Z
 description: >-
-  Happy New Years! Before you judge me for typing up a post when I should be out
+  Happy New Year! Before you judge me for typing up a post when I should be out
   celebrating the close of an amazing, some say that the top smartest people
-  have said, that I have had possibly one of the best most perfect decade of the
+  have said, that I have had probably one of the best most perfect decade of the
   past 10 years. What just happened there?... Anyways, I am home typing this up
   while watching people from the 90s I know and other people I don't know
   perform on TV because I've got a sick kid and I'm being a responsible parent.
