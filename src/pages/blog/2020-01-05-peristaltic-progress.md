@@ -4,7 +4,8 @@ title: Peristaltic Progress
 date: 2020-01-05T03:38:35.257Z
 description: >-
   Peristaltic pump work has commenced! This is just a first prototype and there
-  is still a lot of work to be done, but here are some thoughts.
+  is still a lot of work to be done, but here are some thoughts. None of this
+  design is set in stone yet and everything is subject to change.
 featuredpost: false
 featuredimage: /img/complete.jpg
 tags:
@@ -20,9 +21,9 @@ So there is prototype #1. I am still waiting for some stepper drivers so I can't
 
 I've included this Fusion 360 snapshot so you can see better detail. The main body is three layers, from the bottom up you have:
 
-* The mounting plate attaches to the NEMA 17 stepper using 4 M3 screws. The next 2 plates attach to it with M4 screws and nuts recessed under the mounting plate.
-* The next plate up is the bottom plate. This plate is sandwiched in the middle and receives half of the 9.6mm OD x 6.4mm ID silicon tubing and serves as half of the "squishing area" (big technical term, I'd explain it but I think it is too tough for you).
-* The top plate caps off the squish area and tubing recesses.
+* The mounting plate attaches to the NEMA 17 stepper using 4 M3 screws. The next 2 plates attach to this plate with M4 screws and nuts recessed under the mounting plate.
+* The next plate up is the bottom plate. This plate is sandwiched in the middle and receives half of the 9.6mm OD x 6.4mm ID silicon tubing and serves as half of the "squishing path" (big technical term, I'd explain it but I think it is too tough for you).
+* The top plate caps off the squish path and tubing recesses.
 
 The only other 3D printed parts in the pump are the two pieces of the roller spindle. The two spindle parts sandwich three 4x12x4 ball bearings to create each roller. They are held together using M4 screws and one side holds a recessed nut. The center of the spindle is D shaped to match the shaft exactly. As added protection there is a slot for a captured M3 nut so an M3 screw can hold more tension against the flat of the shaft.
 
@@ -32,7 +33,7 @@ The only other 3D printed parts in the pump are the two pieces of the roller spi
 
 **Isn't NEMA 17 overkill?**
 
-It probably is, but I don't really know what exactly what will be needed so I went with a motor with good availability. The NEMA 17 term really just describes the mounting place of this stepper, but it is extremely common these days because they are frequently used in 3D printers.
+It probably is, but I don't really know what exactly what will be needed so I went with a motor with good availability. The NEMA 17 term really just describes the mounting plate of this stepper, but it is extremely common these days because they are frequently used in 3D printers. I'd rather use an overkill motor at 50% that can be obtained more easily that a more appropriate one that is difficult to find.
 
 **Why only two rollers?**
 
@@ -44,11 +45,13 @@ Yeah I know. Natural clear PLA is kind of gross. I was too lazy to swap it out.
 
 **Where are the STL files!?**
 
-I haven't even tested it yet! None of this design has been finalized yet. If you really want to print and test it out, I guess I can share it. Just let me know.
+I haven't even tested it yet! None of this design has been finalized yet. If you _really_ want to print and test it out, I guess I can share it. Just let me know.
 
-### Problems
+### Possible problems
 
 I think the spindle may need to be adjusted slightly to move the rollers out slightly more for increased squish. But I won't know for sure until I test it out. It currently squishes the tube down to 3mm, which I thought was going to be tough to turn, but once I got it assembled it really seems like it could be even tighter without issue.
+
+I was thinking that the way I sandwiched the tubing between the top and bottom plates was going to keep the tubing solidly in place. I can definitely move it around though. I am not going to change that until I know it is a problem though. It may be that some zip ties on the tubing just outside the pump head will be good enough.
 
 I think that is all for tonight. I'll leave you with a few more pics.
 
