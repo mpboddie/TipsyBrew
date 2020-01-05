@@ -12,8 +12,6 @@ tags:
   - pump
   - 3D printing
 ---
-
-
 ![Mostly complete](/img/complete.jpg)
 
 So there is prototype #1. I am still waiting for some stepper drivers so I can't really power it up yet... although I think I have an L293D in storage somewhere if I get desperate. So what exactly did I do here? Let's break it down a bit.
