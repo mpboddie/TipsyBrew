@@ -24,11 +24,11 @@ I'm sure it is a big shocker after seeing the picture above, but I can dim the f
 
 Over on the TipsyBrew Discord server, a user (whom I would identify if they would like credit) had the brilliant idea that they would start a coffee grinder project. Well the community, myself included, is pretty enthusiastic about it. If you aren't on the Discord server yet, you really should be there, especially if you have anything to input. Come join the fun with the invite in the footer of any TipsyBrew pages. No really, scroll down and check for the Discord logo, I'll wait here...
 
-Told you.
+Told you. Next time you are down there, maybe consider using the buy me a coffee button as well. It is a good way to support TipsyBrew. At least just think about it.
 
 ### Drunk Driver
 
-<div style="width:80%;height:300px;background-color:black;text-align:center;">
+<div style="width:100%;height:480px;background-color:black;text-align:center;">
   <video style="height:100%;" controls>
     <source src="https://lh3.googleusercontent.com/iDt5u-5miNV6r94emSbeDu2-Tm-LEq_2XH5cyFo2zyhhnVZf47DHdadoAFuhDi4ELOuc-P2lwSefaM9bjH4E98glII_RFR4a_Aoj8-wNBjC78ne4lMQVUlGmMetxTW_XJV6ndTRPtQ=m18" type="video/mp4">
   </video>
