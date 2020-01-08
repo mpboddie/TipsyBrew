@@ -6,6 +6,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import discord from '../img/social/Discord-Logo-Black.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -70,6 +71,18 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <style>
+                        .bmc-button img{'{width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}'}
+                        .bmc-button{'{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF4400 !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 28px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:"Cookie", cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}'}
+                        .bmc-button:hover, .bmc-button:active, .bmc-button:focus {'{-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}'}
+                      </style>
+                      <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"></link>
+                      <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/XkFdpfL">
+                        <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></img>
+                        <span style={{marginLeft: '15px', fontSize: '28px'}}>Buy me a coffee</span>
+                      </a>
+                    </li>
                   </ul>
                 </section>
               </div>
@@ -81,6 +94,14 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>*/}
+                <a title="discord" href="https://discord.gg/RP9Ubb6">
+                  <img
+                    className="fas fa-lg"
+                    src={discord}
+                    alt="Discord"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
                 <a title="twitter" href="https://twitter.com/tipsybrew">
                   <img
                     className="fas fa-lg"
@@ -103,16 +124,6 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>*/}
-                <style>
-                  .bmc-button img{'{width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}'}
-                  .bmc-button{'{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF4400 !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 28px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:"Cookie", cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}'}
-                  .bmc-button:hover, .bmc-button:active, .bmc-button:focus {'{-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}'}
-                </style>
-                <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"></link>
-                <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/XkFdpfL">
-                  <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></img>
-                  <span style={{marginLeft: '15px', fontSize: '28px'}}>Buy me a coffee</span>
-                </a>
               </div>
             </div>
           </div>
