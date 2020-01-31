@@ -45,4 +45,7 @@ Clearly the next 4 pins are connected directly to the stepper. These 4 wires are
 Lastly, we have a ground pin. Did I really have to tell you that the black wire attached to the ground rail of the breadboard is a ground pin? Probably not, but I just did.
 
 ### Next up, Soft stuff
+
 This write up took a bit longer than I anticipated. So I think I'll make the code examples for this a separate post. Look for that soon. In the meantime, let me know if I left anything out or any parts are not clear. Join us on the Discord server as usual.
+
+**UPDATE**: Here is \[the follow up post](https://tipsybrew.com/blog/2020-01-31-the-hookup-stepper-basics-but-the-code/).
