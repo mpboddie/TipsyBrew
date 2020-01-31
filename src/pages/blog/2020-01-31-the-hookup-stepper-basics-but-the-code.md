@@ -59,7 +59,7 @@ So the first few lines of code are just setting convenience variables. The steps
 
 There is nothing interesting in the setup. Just setting the pins to output.
 
-The loop code is where all the fun stuff happens. We said [last time](blog/2020-01-30-the-hookup-stepper-basics/) when discussing the pins, that the Direction pin was for controlling the-- well the direction. Big shocker there. As we can see in the first line of the loop function...
+The loop code is where all the fun stuff happens. We said [last time](https://tipsybrew.com/blog/2020-01-30-the-hookup-stepper-basics/) when discussing the pins, that the Direction pin was for controlling the-- well the direction. Big shocker there. As we can see in the first line of the loop function...
 
 ```
 digitalWrite(dirPin, HIGH);
