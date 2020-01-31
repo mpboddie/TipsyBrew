@@ -25,7 +25,7 @@ So, as you may know I have been working on the stepper motor that will be used t
 
 You also can't just simply supply a stepper the appropriate voltage and amperage and expect it to move. It works on a series of coils that you power in a sequence to make it move in steps, hence the name. So I needed a stepper driver. There are a lot of good cheap options for drivers these day thanks to the popularity of 3D printers. I mentioned in the [Smörgåsbord](https://tipsybrew.com/blog/2020-01-07-smörgåsbord/) update that my first attempt using some parts from the basement was not providing enough current to the stepper. Well the DRV8825 provided enough power and was able to to spin the pump quite nicely.
 
-Unfortunately, I didn't get much time to enjoy my newly powered pump. I was using a 12v 4A power supply I had on hand with a 5.5mm barrel jack. There is nothing wrong with 4A, stop jumping to conclusions and let me finish. I had been using a barrel jack on the breadboard then taking that power for the stepper. The Arduino was being powered by the USB connection to the computer I had the Arduino IDE on. This is a ad idea, but STOP JUMPING TO CONCLUSIONS because that didn't break anything either. It did cause strange behavior of the stepper though, so don't do it.
+Unfortunately, I didn't get much time to enjoy my newly powered pump. I was using a 12v 4A power supply I had on hand with a 5.5mm barrel jack. There is nothing wrong with 4A, stop jumping to conclusions and let me finish. I had been using a barrel jack on the breadboard then taking that power for the stepper. The Arduino was being powered by the USB connection to the computer I had the Arduino IDE on. This is a bad idea, but STOP JUMPING TO CONCLUSIONS because that didn't break anything either. It did cause strange behavior of the stepper though, so don't do it.
 
 So what did cause the problem? Well I was thinking, why am I using the extra barrel jack, there is one on the Arduino and the input voltage is 7-12v. If I plug the power supply into that and pull the power for the stepper from the Vin, then everything will be all nice and tidy. Well it was a fantastic idea! Until the second the stepper turned on and smoke started pouring out of the voltage regulator.
 
@@ -40,6 +40,7 @@ There are 2 voltages at play here. The barrel jack at the top right provides 12v
 So this post is kind of getting long and I don't think I should get into the code examples now. If you are really really impatient, shoot me a message and I'll fast track it, but otherwise I'll probably wait until get the Mega fixed or a replacement.
 
 ### What are you going to do to fix the Mega?
+
 Oh right that.
 
 Well, the good news is it still functions when using USB power. This is because the voltage regulator is not involved with that power source. The bad news is I won't be able to use it with the stepper unless I regulate the power some other way. This is possible, but unless I am missing something stupid simple and in my parts bin it is probably best to wait for a new Arduino and/or new regulator.
