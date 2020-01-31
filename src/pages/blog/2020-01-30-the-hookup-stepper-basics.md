@@ -3,8 +3,8 @@ templateKey: blog-post
 title: 'The Hookup: Stepper basics'
 date: 2020-01-31T03:52:00.000Z
 description: >-
-  So I've been so wrapped up in the stand and getting the pump tests up and
-  running that I realized I never wrote up a hookup article for stepper motors!
+  So I've been so wrapped up in follies, the stand, and getting the pump tests
+  up and running that I forgot to post a hookup article for stepper motors!
 featuredpost: false
 featuredimage: /img/stepperbasic_bb.png
 tags:
