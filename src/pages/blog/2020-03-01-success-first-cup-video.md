@@ -10,7 +10,7 @@ tags:
 ---
 <div style="width:100%;height:480px;background-color:black;text-align:center;">
   <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/V1pS7LTkubJ9BvOBxv-0iWW7u5ApYW680YxQB2ypziUw4XK_Xo5Av2YnyDQ-ebnlxA826GSX_TF7lBLHFqRaewAR9aPcQv5e9NHNGdWw9CpplBn6kSId_CgSIGi0X7p7cCg9wMSRiA=m37" type="video/mp4">
+    <source src="https://lh3.googleusercontent.com/Xa5oHQh_6yVtWqrl1dD3rD0g7zGMxpoZRXevTWN-0zaHYt54fmbwvDCUNZwayPICp8lEU0elrmoF77Udsiuwy4iUdRk2s94XXEUnWPl7kSqXSWQ48olwj6LiU-g560sno-zJ9SzPMA=m37" type="video/mp4">
   </video>
 </div>
 
