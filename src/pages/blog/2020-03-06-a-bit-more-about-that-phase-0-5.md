@@ -13,20 +13,20 @@ tags:
   - arduino
 ---
 ## Use It
-The first  cup of coffee was actually quite the jump of functionality. If you are just a casual follower or you are just joining the journey of TipsyBrew Pour Over, you may not understand what is going on at all. I think the best place to start is going through how it is used.
-1. Behind the stand is an electric kettle. Before the video started I filled the kettle, ran it to a boil, then rinsed the pour over filter, then placed it behind the TipsyBrew with the intake tubing placed in it.
-2. When the TipsyBrew starts up, it shows a title screen for a couple seconds then instructs the user to place a brewer in the stand WITHOUT grounds. The user should press any button to proceed.
-3. TipsyBrew then uses a scale under the brewer to measure the amount of coffee grounds you place into the pour over cone. If needed you can tare the scale with the A button at this point. You will see three numbers on the screen:
+The [first cup](https://tipsybrew.com/blog/2020-03-01-success-first-cup-video/) of coffee was actually quite the jump of functionality. If you are just a casual follower or you are just joining the journey of TipsyBrew Pour Over, you may not understand what is going on at all. I think the best place to start is going through how it is used.
+1. Behind the stand is an electric kettle. Before the video started I filled the kettle, ran it to a boil, then rinsed the pour over filter, finally I placed it behind the TipsyBrew with the intake tubing placed in it.
+2. When the TipsyBrew starts up, it shows a title screen for a couple seconds then instructs the user to place a brewer in the stand WITHOUT grounds. I placed the brewer in the stand before the video started. The user should press any button to proceed.
+3. TipsyBrew then uses a scale under the brewer to measure the amount of coffee grounds you place into the pour over cone. If needed you can tare the scale with the A button at this point. You will see three numbers on the screen (in between loading scoops of coffee I was checking these numbers to make sure I was loading enough):
   * Dead beans: This is the amount of coffee grounds you have added to the pour over cone in grams.
   * Water used: TipsyBrew calculates the exact amount of water required according to a coffee to water ratio. In this demo, it is using a standard 1:16 coffee to water ratio.
   * Coffee made: This is the amount of resulting coffee. The grounds will hold a certain amount of the water. That is subtracted from the input water and you get the amount of coffee made. This is convenient and prevents you from overflowing the brewing carafe assuming you are paying attention to what you are doing.
 4. When ready to brew, then * button is pressed followed by the 1 button to confirm.
-5. TipsyBrew starts the Bloom stage. The bloom for those uninitiated is some water to wet the grounds followed by a wait to allow CO2 to escape the grounds. TipsyBrew doubles the amount of grounds used and uses that amount of water (using the scale) for the bloom, then waits 30 seconds.
+5. TipsyBrew starts the Bloom stage. The bloom for those uninitiated is some water to wet the grounds followed by a wait to allow CO2 to escape the grounds. TipsyBrew doubles the weight of grounds used and uses that amount of water (using the scale) for the bloom, then waits 30 seconds before moving on.
 6. Once the Bloom stage completes, TipsyBrew starts the Brew cycle. TipsyBrew keeps a count of how much water still needs to be added to the pour over cone. If that amount is more than 150ml it will dispense 150ml, wait 20 seconds, then repeat until the correct amount of total water is used.
 
 Aaaaand that is it.
 ## Bill of Materials
-In the Discord channel I said it is probably too soon to release a bill of materials, so here it is!!! Kidding. I mean I am still letting you know what parts are in the demo, but just a brief run through for anyone that really wants to get a head start. Keep in mind that **any of this could change before hitting phase one**.
+In the Discord channel I said it is probably too soon to release a bill of materials, so here it is!!! Kidding. I mean I am still letting you know what parts are in the demo, but just a brief run through for anyone that really wants to get a head start. Keep in mind that **any of this could change before hitting phase one**. I will release a more detailed bill of materials once a TipsyBrew phase is more complete, steady, and easier for a novice to follow.
 * Arduino MEGA 2560
 * i2c OLED display 128x64
 * 4x4 membrane keypad (way too many keys, but I didn't have other buttons)
