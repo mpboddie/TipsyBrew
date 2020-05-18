@@ -51,5 +51,7 @@ testimonials:
       this thing try to do and fuck up
   - author: dphillips from Discord
     quote: fuck you tipsy
+  - author: Tipsy's wife
+    quote: that stupid coffee robot
 full_image: /img/products-full-width.jpg
 ---
