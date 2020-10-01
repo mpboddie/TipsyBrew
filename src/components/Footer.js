@@ -7,6 +7,7 @@ import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 import discord from '../img/social/Discord-Logo-Black.svg'
+import youtube from '../img/social/iconmonstr-youtube-6.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -98,7 +99,7 @@ const Footer = class extends React.Component {
                   <img
                     className="fas fa-lg"
                     src={discord}
-                    alt="Discord"
+                    alt="TipsyBrew, but on Discord"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
@@ -106,10 +107,18 @@ const Footer = class extends React.Component {
                   <img
                     className="fas fa-lg"
                     src={twitter}
-                    alt="Twitter"
+                    alt="TipsyBrew, but on Twitter"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
+                <a title="youtube" href="https://www.youtube.com/channel/UCbihciD1uIv_oLXUsaCwFyQ">
+                  <img
+                    className="fas fa-lg"
+                    src={youtube}
+                    alt="TipsyBrew, but on YouTube"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>                    
                 {/*<a title="instagram" href="https://instagram.com">
                   <img
                     src={instagram}
