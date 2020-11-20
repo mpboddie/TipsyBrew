@@ -34,7 +34,7 @@ intro:
       title: Distilling
       text: >
         Admittedly, we have zero experience with distilling... but that really
-        just makes us want to look into it even more (well that and a love of whisk(e)y.
+        just makes us want to look into it even more (well that and a love of whisk(e)y).
         It is going to take us a while to get to this though, so don't hold your breath.
     - image: /img/tutorials.png
       title: Other stuff
