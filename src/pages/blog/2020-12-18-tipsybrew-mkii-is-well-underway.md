@@ -10,7 +10,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/pxl_20201204_145446917.jpg
 tags:
-  - pour over
+  - pourover
   - robot
   - coffee
   - arduino
