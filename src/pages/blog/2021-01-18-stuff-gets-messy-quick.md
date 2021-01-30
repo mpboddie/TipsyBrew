@@ -10,7 +10,7 @@ featuredimage: /img/pxl_20210119_011415164_2.jpg
 tags:
   - LCD
   - arduino
-  - pour over
+  - pourover
 ---
 ![](/img/pxl_20210119_011415164_2.jpg)
 
