@@ -14,7 +14,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/20210110_233014-collage.jpg
 tags:
-  - pour over
+  - pourover
   - robot
   - coffee
   - arduino
