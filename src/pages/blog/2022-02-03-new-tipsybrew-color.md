@@ -14,4 +14,4 @@ TipsyBrew now comes in Matte Black! See picture of the preproduction unit in Mat
 
 ![](/img/matteblack.jpg)
 
-<sub><sup>Full disclosure: This post was written out of spite.</sup></sub>
+<sub><sup><sub><sup><sub><sup>Full disclosure: This post was written out of spite.</sup></sub></sup></sub></sup></sub>
