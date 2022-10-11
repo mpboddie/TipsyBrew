@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120.25179mm"
+   height="138.8548mm"
+   viewBox="0 0 120.25179 138.8548"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1849519"
-     inkscape:cx="488.22467"
-     inkscape:cy="641.9052"
+     inkscape:cx="324.33746"
+     inkscape:cy="279.63413"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -35,7 +35,12 @@
      inkscape:window-height="1028"
      inkscape:window-x="-7"
      inkscape:window-y="1060"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,7 +57,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-43.361825,-53.362869)">
     <path
        sodipodi:type="star"
        id="path3713"
@@ -111,7 +117,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-43.361825,-53.362869)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4548"
@@ -125,26 +132,55 @@
            x="218.80281"
            y="360.32373"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4554"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4556"
+         id="flowPara4554" /></flowRoot>    <g
+       aria-label="TIPSYBREW"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.52154573,-0.69539431)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:85.33333588px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.52154573,-0.69539431)"><flowRegion
-         id="flowRegion4558"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"><rect
-           id="rect4560"
-           width="372.15509"
-           height="125.64964"
-           x="204.7484"
-           y="357.54535"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4562"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">TIPSYBREW</flowPara></flowRoot>  </g>
+       id="flowRoot4556">
+      <path
+         d="m 256.57617,380.68031 h -10.75 v 56.58333 h -9.70834 v -56.58333 h -10.75 v -8.625 h 31.20834 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5147" />
+      <path
+         d="m 271.49284,437.26364 h -9.75 v -65.20833 h 9.75 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5149" />
+      <path
+         d="m 311.07617,407.55531 q 0,6.08333 -5.95833,6.08333 h -15.79167 v 23.625 h -9.75 v -65.20833 h 25.54167 q 5.95833,0 5.95833,6 z m -9.83333,-2.29167 v -24.83333 h -11.91667 v 24.83333 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5151" />
+      <path
+         d="m 349.32617,431.30531 q 0,5.95833 -5.91667,5.95833 h -19.625 q -5.875,0 -5.875,-5.95833 v -15.54167 h 9.75 v 13.29167 h 11.91667 v -12.79167 l -19.54167,-18.5 q -2.125,-2.04167 -2.125,-5.20833 v -14.5 q 0,-6 5.875,-6 h 19.625 q 5.91667,0 5.91667,5.91666 v 14.58334 h -9.75 V 380.26364 H 327.6595 v 11.79167 l 19.54167,18.41666 q 2.125,2 2.125,5.29167 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5153" />
+      <path
+         d="m 389.86784,372.43031 -8.625,27.25 q -1.58333,4.04166 -4.29166,13.625 v 23.95833 h -9.79167 v -23.95833 q -0.66667,-3.25 -1.91667,-6.875 -2.20833,-6.20834 -2.375,-6.75 l -8.58333,-27.25 q -0.0417,-0.0417 0,-0.375 h 10.04167 l 7.79166,28.33333 7.75,-28.33333 h 10 q 0,0.29166 0,0.375 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5155" />
+      <path
+         d="m 426.90951,431.30531 q 0,5.95833 -5.95834,5.95833 h -26.04166 v -65.20833 h 25.875 q 5.79166,0 5.79166,6 v 16.79166 q 0,3.33334 -2.08333,5.16667 -0.29167,0.25 -5.08333,3.20833 4.95833,3.04167 5.25,3.33334 2.25,1.95833 2.25,5.375 z m -10.04167,-35.25 v -15.79167 h -12.20833 v 19.125 h 7.5 z m 0.25,33 v -18.58334 l -4.79167,-3.16666 h -7.66666 v 21.75 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5157" />
+      <path
+         d="m 467.95118,437.26364 h -10.16667 l -10.75,-30.29167 q 0,0 0,-5.875 h 9.58333 v -20.66666 h -12.29166 v 56.83333 h -9.75 v -65.20833 h 25.875 q 5.875,0 5.875,6 v 23.70833 q 0,4.125 -2.79167,5.33333 -1.5,0.625 -6.33333,0.625 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5159" />
+      <path
+         d="m 500.95117,437.26364 h -27.04166 v -65.20833 h 26.79166 v 8.625 h -17.04166 v 19.04166 h 14.66666 v 8.45834 h -14.66666 v 20.45833 h 17.29166 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5161" />
+      <path
+         d="m 555.70118,372.05531 -9.54167,65.29167 h -9.54167 l -5.83333,-36.95834 q -0.0833,-2 -0.33333,-5.95833 0,2 -0.33334,5.95833 l -5.79166,36.95834 h -9.58334 l -9.54166,-65.29167 h 9.875 l 5.04166,38.66666 q 0.125,2 0.33334,5.95834 0.0417,-2 0.375,-5.95834 l 5.625,-38.66666 h 8 l 5.625,38.66666 q 0.125,2 0.375,5.95834 0.0417,-2 0.33333,-5.95834 l 5.04167,-38.66666 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:85.33333588px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="path5163" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Icon"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-43.361825,-53.362869)">
     <path
        sodipodi:nodetypes="cccccccccccccccccc"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.15611444"
@@ -154,39 +190,86 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4633"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion4635"
-         style="fill:#ffffff;fill-opacity:1;"><rect
+         style="fill:#ffffff;fill-opacity:1"><rect
            id="rect4637"
            width="230.3891"
            height="47.259304"
            x="276.80447"
            y="563.84723"
-           style="fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara4639"></flowPara></flowRoot>  </g>
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4639" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="subtitle">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4641"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="scale(0.26458333)"><flowRegion
-         id="flowRegion4643"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"><rect
-           id="rect4645"
-           width="224.48169"
-           height="59.074127"
-           x="280.18015"
-           y="554.56415"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4647">pour over robot</flowPara></flowRoot>  </g>
+     inkscape:label="subtitle"
+     transform="translate(-43.361825,-53.362869)">
+    <g
+       aria-label="pour over robot"
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot4641">
+      <path
+         d="m 305.2334,587.85057 q 0,1.75781 -1.15235,2.92969 -1.15234,1.15234 -2.89062,1.15234 h -4.27734 v 7.20703 h -2.59766 V 572.9287 h 2.59766 v 0.52734 q 1.54296,-0.19531 3.08593,-0.39063 1.95313,-0.2539 3.06641,-0.2539 2.16797,0 2.16797,2.1289 z m -2.59766,-0.39062 v -12.20704 l -5.72265,0.15625 v 14.23829 h 3.59375 q 2.1289,0 2.1289,-2.1875 z"
+         style=""
+         id="path5166" />
+      <path
+         d="m 320.31152,589.72557 q 0,2.20703 -2.20703,2.20703 h -6.52344 q -2.1875,0 -2.1875,-2.20703 v -14.58984 q 0,-2.20703 2.1875,-2.20703 h 6.52344 q 2.20703,0 2.20703,2.20703 z m -2.59765,-0.0781 v -14.4336 h -5.72266 v 14.4336 z"
+         style=""
+         id="path5168" />
+      <path
+         d="m 335.42871,591.9326 h -2.55859 v -0.52734 q -1.5625,0.21484 -3.10547,0.41015 -1.875,0.23438 -3.10547,0.23438 -2.10938,0 -2.10938,-2.10938 V 572.9287 h 2.5586 v 16.67968 l 5.76172,-0.15625 V 572.9287 h 2.55859 z"
+         style=""
+         id="path5170" />
+      <path
+         d="m 349.64746,579.1787 h -2.55859 v -3.92579 l -4.78516,0.15625 v 16.52344 h -2.59766 v -19.0039 h 2.59766 v 0.52734 q 1.28906,-0.19531 2.59766,-0.41016 1.5625,-0.23437 2.59765,-0.23437 2.14844,0 2.14844,2.1289 z"
+         style=""
+         id="path5172" />
+      <path
+         d="m 371.71777,589.72557 q 0,2.20703 -2.20703,2.20703 h -6.52344 q -2.1875,0 -2.1875,-2.20703 v -14.58984 q 0,-2.20703 2.1875,-2.20703 h 6.52344 q 2.20703,0 2.20703,2.20703 z m -2.59765,-0.0781 v -14.4336 h -5.72266 v 14.4336 z"
+         style=""
+         id="path5174" />
+      <path
+         d="m 386.65918,572.9287 -4.70703,19.04296 h -2.36328 L 374.8623,572.9287 h 2.67579 l 3.24218,14.96093 3.28125,-14.96093 z"
+         style=""
+         id="path5176" />
+      <path
+         d="m 400.4873,589.72557 q 0,2.20703 -2.1875,2.20703 h -6.25 q -2.1875,0 -2.1875,-2.20703 v -14.58984 q 0,-2.20703 2.1875,-2.20703 h 6.25 q 2.1875,0 2.1875,2.20703 v 6.83593 l -0.8789,0.91797 h -7.22656 v 6.875 h 5.58593 v -3.47656 h 2.51953 z m -2.51953,-8.90625 v -5.72266 h -5.58593 v 5.72266 z"
+         style=""
+         id="path5178" />
+      <path
+         d="m 414.72559,579.1787 h -2.5586 v -3.92579 l -4.78515,0.15625 v 16.52344 h -2.59766 v -19.0039 h 2.59766 v 0.52734 q 1.28906,-0.19531 2.59765,-0.41016 1.5625,-0.23437 2.59766,-0.23437 2.14844,0 2.14844,2.1289 z"
+         style=""
+         id="path5180" />
+      <path
+         d="m 435.81934,579.1787 h -2.5586 v -3.92579 l -4.78515,0.15625 v 16.52344 h -2.59766 v -19.0039 h 2.59766 v 0.52734 q 1.28906,-0.19531 2.59765,-0.41016 1.5625,-0.23437 2.59766,-0.23437 2.14844,0 2.14844,2.1289 z"
+         style=""
+         id="path5182" />
+      <path
+         d="m 450.07715,589.72557 q 0,2.20703 -2.20703,2.20703 h -6.52344 q -2.1875,0 -2.1875,-2.20703 v -14.58984 q 0,-2.20703 2.1875,-2.20703 h 6.52344 q 2.20703,0 2.20703,2.20703 z m -2.59766,-0.0781 v -14.4336 h -5.72265 v 14.4336 z"
+         style=""
+         id="path5184" />
+      <path
+         d="m 465.2334,587.85057 q 0,1.75781 -1.15235,2.92969 -1.15234,1.15234 -2.89062,1.15234 h -6.875 v -30.5664 h 2.59766 v 12.08984 q 1.54296,-0.19531 3.08593,-0.39063 1.95313,-0.2539 3.06641,-0.2539 2.16797,0 2.16797,2.1289 z m -2.59766,-0.39062 v -12.20704 l -5.72265,0.15625 v 14.23829 h 3.59375 q 2.1289,0 2.1289,-2.1875 z"
+         style=""
+         id="path5186" />
+      <path
+         d="m 480.38965,589.72557 q 0,2.20703 -2.20703,2.20703 h -6.52344 q -2.1875,0 -2.1875,-2.20703 v -14.58984 q 0,-2.20703 2.1875,-2.20703 h 6.52344 q 2.20703,0 2.20703,2.20703 z m -2.59766,-0.0781 v -14.4336 h -5.72265 v 14.4336 z"
+         style=""
+         id="path5188" />
+      <path
+         d="m 491.46387,591.9326 h -3.69141 q -2.1875,0 -2.1875,-2.20703 v -14.51172 h -2.28516 v -2.28515 h 2.28516 v -5.91797 h 2.55859 v 5.91797 h 3.32032 v 2.28515 h -3.32032 v 14.4336 h 3.32032 z"
+         style=""
+         id="path5190" />
+    </g>
+  </g>
   <g
      inkscape:label="bean 1"
      id="g4608"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:none"
+     transform="translate(-43.361825,-53.362869)">
     <path
        sodipodi:nodetypes="cccccccccccccccccc"
        style="stroke-width:0.26458332"
@@ -198,7 +281,8 @@
      inkscape:groupmode="layer"
      id="g4616"
      inkscape:label="bean 2"
-     style="display:none">
+     style="display:none"
+     transform="translate(-43.361825,-53.362869)">
     <path
        d="m 80.047833,139.98024 c -4.365625,12.62063 -3.042708,24.92376 3.836459,36.35376 3.227916,5.34458 7.990416,8.78417 14.790208,8.255 2.11667,-0.15875 3.22792,-1.00542 3.94229,-3.04272 2.96333,-8.51958 1.03188,-15.98083 -4.550832,-22.78061 -5.423958,-6.58814 -7.593542,-13.99647 -5.609167,-22.46313 0.555625,-2.40771 0.820209,-4.8948 1.296459,-7.88459 -7.567084,1.16417 -11.615208,5.52979 -13.705417,11.56229 z m 36.882927,32.80834 c 5.8473,-13.4673 4.60375,-26.37896 -3.96875,-38.36459 -2.80458,-3.94229 -6.72043,-6.50875 -11.66814,-7.19666 -2.275409,-0.3175 -3.41312,0.15875 -3.995204,2.77812 -2.434166,10.90084 -1.799166,20.82271 6.588124,29.36875 4.47146,4.5773 5.42396,10.45105 3.99521,16.66875 -0.44979,1.98438 -0.82021,4.02168 -1.34938,6.69397 5.18586,-1.98439 8.44023,-5.45042 10.39814,-9.94834 z"
        id="path4614"
@@ -210,7 +294,8 @@
      inkscape:groupmode="layer"
      id="g4612"
      inkscape:label="bean 3"
-     style="display:none">
+     style="display:none"
+     transform="translate(-43.361825,-53.362869)">
     <path
        d="m 145.63806,170.619 c -12.80583,8.91645 -19.10293,21.32542 -18.30918,36.98875 0.2646,5.45042 2.98981,9.86895 8.255,12.14438 1.03188,0.44979 2.83106,0.44979 3.70418,-0.15875 4.55082,-3.175 8.01688,-7.32896 8.89,-12.9646 0.5027,-3.12208 0.5027,-6.4029 0.23813,-9.5779 -0.68793,-8.91646 1.905,-16.4571 8.59895,-22.5425 1.48167,-1.34938 2.64584,-3.01625 3.99521,-4.60375 -4.97416,-2.6723 -10.58334,-2.61938 -15.37229,0.71437 z m 11.32417,48.84208 c 11.29771,-7.51416 17.09208,-18.25625 17.38312,-31.75 0.13229,-5.87375 -1.53458,-11.40355 -6.58812,-15.16063 -0.82021,-0.60853 -2.8575,-0.8202 -3.43959,-0.26457 -7.91104,7.38187 -13.75833,15.68979 -11.37708,27.43729 1.42875,7.06436 -0.66146,13.12333 -5.95312,18.04458 -1.4023,1.29645 -2.88396,2.51353 -5.00063,4.33917 6.24417,1.24353 10.84792,0.10583 14.97542,-2.64584 z"
        id="path4610"

@@ -33,8 +33,8 @@ Looking at the load cell (the gray rectangle on the bottom) you will see 4 wires
 |-----------------|--------------|
 | Red wire        | E+ contact   |
 | Black wire      | E- contact   |
-| White wire      | A+ contact   |
-| Green wire      | A- contact   |
+| Green wire      | A+ contact   |
+| White wire      | A- contact   |
 
 The HX711 connections to the Arduino are just as straight forward.
 

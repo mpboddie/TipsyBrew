@@ -2,11 +2,13 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
+import icon from '../img/coffeeLogo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 import discord from '../img/social/Discord-Logo-Black.svg'
+import youtube from '../img/social/iconmonstr-youtube-6.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -14,7 +16,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={logo}
+            src={icon}
             alt="TipsyBrew"
             style={{ width: '14em', height: '10em' }}
           />
@@ -78,7 +80,7 @@ const Footer = class extends React.Component {
                         .bmc-button:hover, .bmc-button:active, .bmc-button:focus {'{-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}'}
                       </style>
                       <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"></link>
-                      <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/XkFdpfL">
+                      <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/TipsyBrew">
                         <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></img>
                         <span style={{marginLeft: '15px', fontSize: '28px'}}>Buy me a coffee</span>
                       </a>
@@ -98,7 +100,7 @@ const Footer = class extends React.Component {
                   <img
                     className="fas fa-lg"
                     src={discord}
-                    alt="Discord"
+                    alt="TipsyBrew, but on Discord"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
@@ -106,10 +108,18 @@ const Footer = class extends React.Component {
                   <img
                     className="fas fa-lg"
                     src={twitter}
-                    alt="Twitter"
+                    alt="TipsyBrew, but on Twitter"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
+                <a title="youtube" href="https://www.youtube.com/channel/UCbihciD1uIv_oLXUsaCwFyQ">
+                  <img
+                    className="fas fa-lg"
+                    src={youtube}
+                    alt="TipsyBrew, but on YouTube"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>                    
                 {/*<a title="instagram" href="https://instagram.com">
                   <img
                     src={instagram}
