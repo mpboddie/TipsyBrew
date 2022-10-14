@@ -65,14 +65,14 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-//    {
-//      resolve: 'gatsby-plugin-google-gtag',
-//      options: {
-//        trackingIds: [
-//          process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none"
-//        ]
-//      }
-//    },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [
+          process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none"
+        ]
+      }
+    },
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
